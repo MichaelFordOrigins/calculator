@@ -1,0 +1,70 @@
+.container{
+
+	background-image:url(http://i.stack.imgur.com/Sv4BC.png);
+	height:390px;
+	border:solid black 2px;
+	position: relative;
+	margin:auto 0;
+	border-radius: 40px;
+	width:410px;
+}
+
+
+.keys input{
+	font-size:20px;
+}
+
+
+#moving{
+position: absolute;
+margin:auto;
+left:40px;
+top:10px;
+
+}
+
+}
+style{
+width:40px;
+
+}
+
+input{
+	
+	border: solid black;
+	font:blue;
+	width:70px;
+	height:30px;
+	margin:auto;
+	font-size:50px;
+
+}
+
+
+
+input:nth-child(1){
+	width:300px;
+	height:60px;
+	padding-top:10px;
+	font-size:50px;
+
+
+}
+.keys{
+		margin:auto;
+		position: absolute;
+		top:80px;	
+
+}
+
+
+
+body{
+}
+
+
+.key input:hover{
+
+}
+
+key
